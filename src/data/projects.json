@@ -1,0 +1,27 @@
+[{
+    "title": "Daily Expense Tracker",
+    "imageSrc": "projects/makeme1.png",
+    "description": "Track your daily expenses easily with charts and history.",
+    "skills": ["React", "CSS", "JavaScript"],
+    "demo": "https://yourdailyexpense.netlify.app/",
+    "source": "https://github.com/MDmessi/Portfolio"
+  
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  

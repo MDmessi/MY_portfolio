@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Student",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [""],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [""],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      ""
+    ],
+    "imageSrc": "history/microsoft.png"
+  }
+]
