@@ -16,12 +16,12 @@
       "source": "https://www.github.com/MDmessi/Drinkit.Ecommerce-website"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
+      "title": "Travel Website",
+      "imageSrc": "projects/2.jpg",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://travelsannin.netlify.app/",
+      "source": "https://www.github.com/MDmessi/Travel-Website"
     }
   ]
   
