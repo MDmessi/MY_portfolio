@@ -1,6 +1,6 @@
 
 import styles from  "./App.module.css";
-import { About } from "./components/About/about";
+import { About } from "./components/About/About.jsx";
 import { Contact } from "./components/Contact/Contact";
 import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
